@@ -51,7 +51,7 @@ export default function RootLayout({
         <footer className="bg-gray-50 dark:bg-gray-900 border-t">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
             <div className="text-center text-gray-600 dark:text-gray-400">
-              <p>&copy; 2024 배성현. All rights reserved.</p>
+              <p>&copy; 2025 배성현. All rights reserved.</p>
             </div>
           </div>
         </footer>

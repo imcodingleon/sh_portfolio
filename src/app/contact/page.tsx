@@ -10,7 +10,6 @@ import { Label } from "@/components/ui/label";
 import { Separator } from "@/components/ui/separator";
 import { 
   Mail, 
-  Linkedin, 
   Github, 
   MapPin, 
   Clock, 
@@ -139,19 +138,11 @@ export default function Contact() {
                       </div>
                       <div>
                         <h3 className="font-semibold text-gray-900">이메일</h3>
-                        <p className="text-gray-600">contact@bae-sunghyun.com</p>
+                        <p className="text-gray-600">skwogusdld@gmail.com</p>
                       </div>
                     </div>
 
-                    <div className="flex items-center gap-4">
-                      <div className="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center">
-                        <Linkedin className="h-6 w-6 text-blue-600" />
-                      </div>
-                      <div>
-                        <h3 className="font-semibold text-gray-900">LinkedIn</h3>
-                        <p className="text-gray-600">linkedin.com/in/bae-sunghyun</p>
-                      </div>
-                    </div>
+
 
                     <div className="flex items-center gap-4">
                       <div className="w-12 h-12 bg-gray-100 rounded-lg flex items-center justify-center">
@@ -159,7 +150,7 @@ export default function Contact() {
                       </div>
                       <div>
                         <h3 className="font-semibold text-gray-900">GitHub</h3>
-                        <p className="text-gray-600">github.com/bae-sunghyun</p>
+                        <p className="text-gray-600">https://github.com/imcodingleon</p>
                       </div>
                     </div>
 
@@ -169,7 +160,7 @@ export default function Contact() {
                       </div>
                       <div>
                         <h3 className="font-semibold text-gray-900">위치</h3>
-                        <p className="text-gray-600">서울, 대한민국</p>
+                        <p className="text-gray-600">안양시, 대한민국</p>
                       </div>
                     </div>
 

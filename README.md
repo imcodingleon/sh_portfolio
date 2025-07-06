@@ -122,9 +122,8 @@ src/
 
 ## 📞 연락처
 
-- **이메일**: contact@bae-sunghyun.com
-- **LinkedIn**: linkedin.com/in/bae-sunghyun
-- **GitHub**: github.com/bae-sunghyun
+- **이메일**: skwogusdld@gmail.com
+- **GitHub**: https://github.com/imcodingleon
 
 ## 📝 라이선스
 
