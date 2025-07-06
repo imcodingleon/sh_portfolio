@@ -45,7 +45,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko">
-      <body className={inter.className}>
+      <body className={inter.className} suppressHydrationWarning={true}>
         <Navigation />
         <main>{children}</main>
         <footer className="bg-gray-50 dark:bg-gray-900 border-t">
